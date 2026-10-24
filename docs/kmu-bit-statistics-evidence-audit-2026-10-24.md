@@ -64,6 +64,7 @@
 - 부록A 기반 실습: [`study/midterm_r_basics_review.R`](../study/midterm_r_basics_review.R); ANOVA는 별도 후속 학습 자료로 구분.
 - Notion: [과목 정본](https://app.notion.com/p/3e1d67f01bc1812bb4b7fe05381eec06) / [BIT Research Architecture](https://app.notion.com/p/3e2d67f01bc181bf88fcc25113789510)
 - Google Drive: [과목 학습 검토](https://drive.google.com/file/d/1J0kNUUl0iYOxf9B45XOcEdoPlcSnWe_k/view). 개인 연구 파일과 공개 코드의 일치 여부는 별도 확인.
+- [2026-10-24 Google Drive 최신 교차검증 보고서](https://docs.google.com/document/d/1KlZNy1oO2MGEXEKJpUkl0CEv5DprWPQ-czRA-GJ2GZ8/edit): 시험범위·자료 출처·연구방법론을 원문 변경 없이 별도 보고서로 보존.
 
 ## 7. 미해결 관문
 
