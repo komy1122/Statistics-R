@@ -18,7 +18,7 @@ print(mean(x))                  # NA by default
 print(mean(x, na.rm = TRUE))    # 20
 stopifnot(isTRUE(all.equal(mean(x, na.rm = TRUE), 20)))
 print(is.na(x))
-print(str(iris))
+str(iris)  # 구조 출력; str()는 화면 표시 함수
 
 d <- mtcars
 d$cyl_group <- factor(d$cyl)
